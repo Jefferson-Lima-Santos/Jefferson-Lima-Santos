@@ -1,6 +1,6 @@
 ### Hello there! 👋 it's nice to see you here.
 
-- :brazil: From são paulo/ Living in Ribeirão preto - São paulo
+- :brazil: From São paulo/ Living in Ribeirão preto - São paulo
 - 💼 Tech Intern at [Grupo SEB](https://www.sebsa.com.br)
 - 📈 i like to do some projects for fun
 - ❤️ in love with JavaScript, but i am also learning C++, x++ and typeScript
