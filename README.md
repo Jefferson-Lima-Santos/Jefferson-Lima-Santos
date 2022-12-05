@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>Cancel changes
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi+there👋,+My+name+is+Jefferson;I'm+22+years+old+and+i+am+from+Brasil,+SP;Currently+a+student+at+Fatec;in+the+course+of+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -33,3 +33,5 @@ Currently i'm learning how to use Microsoft's DevOps platform on the Cloud: Azur
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
