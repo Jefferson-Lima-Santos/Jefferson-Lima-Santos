@@ -33,5 +33,3 @@ Currently i'm learning how to use Microsoft's DevOps platform on the Cloud: Azur
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
