@@ -17,7 +17,7 @@
 <br><br>
 
 ### Studying in this moment:
-Currently i'm learning how to use Microsoft's DevOps platform on the Cloud: Azure DevOps & also Java <br><br>
+Currently, i'm learning how to use Microsoft's DevOps platform on the Cloud: Azure DevOps & also Java <br><br>
 ![AzureDevOps](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white")&nbsp;
 <br><br>
