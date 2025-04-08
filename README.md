@@ -9,7 +9,7 @@
 ### A little more about me.
 
 - :brazil: From São paulo - Brasil/ Living in Ribeirão preto - São paulo - Brasil
-- 💼 Jr. Developer(FrontEnd) at [Grupo SEB](https://www.sebsa.com.br)
+- 💼 FullStack Developer(FrontEnd Focused) at [Grupo SEB](https://www.sebsa.com.br)
 - 📈 i like to do some projects for fun
 - ❤️ in love with JavaScript and typeScript.
 - 💬 You can also find me on [LinkedIn](https://www.linkedin.com/in/jefferson-santos-348646207)
